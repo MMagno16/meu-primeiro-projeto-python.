@@ -1,0 +1,26 @@
+{
+  "files": {
+    "aula3.py": [
+      {
+        "id": "25bd36ce-c525-4520-98f9-295706bb8531",
+        "line": 2,
+        "version": 559,
+        "index": 30
+      },
+      {
+        "id": "941fc167-9242-4e2a-83ec-15e329ae6f15",
+        "line": 11,
+        "version": 559,
+        "index": 248
+      }
+    ],
+    "aula4.py": [
+      {
+        "id": "ea756037-30eb-48dc-ab2f-55361d44d581",
+        "line": 2,
+        "version": 575,
+        "index": 18
+      }
+    ]
+  }
+}
